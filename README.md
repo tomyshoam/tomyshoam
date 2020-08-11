@@ -24,11 +24,11 @@
   <a href="https://github.com/tomyshoam/tify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomyshoam&repo=tify" />
   </a>
-  <a href="https://github.com/tomyshoam/coronappv2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomyshoam&repo=coronappv2" />
-  </a>
   <a href="https://github.com/tomyshoam/instaclone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomyshoam&repo=instaclone" />
+  </a>
+  <a href="https://github.com/tomyshoam/coronappv2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomyshoam&repo=coronappv2" />
   </a>
   <br>
   <br>
