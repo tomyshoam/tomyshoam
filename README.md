@@ -8,20 +8,17 @@
   </a>
   <br>
   <p>
-    <a href="http://weibo.com/pc175">
+    <a href="http://tosh.co.il">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/weibo.svg?sanitize=true" />
     </a>
-    <a href="https://twitter.com/jaywcjlove">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" />
-    </a>
-    <a href="mailto:wowohoo@qq.com">
+    <a href="mailto:tosh.co.il">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
     </a>
   </p>
   <p>Hi, I'm Tomy, Fullstack developer from Ramat Gan, Israel.</p>
   <p>
     <a href="https://tosh.co.il/">
-      <img src="https://github-readme-stats.vercel.app/api?username=jaywcjlove&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tomyshoam&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
   </p>
   <a href="https://github.com/jaywcjlove/sgo">
