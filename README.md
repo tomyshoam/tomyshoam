@@ -20,7 +20,7 @@
   </p>
   <p>Hi, I'm Tomy, Fullstack developer from Ramat Gan, Israel.</p>
   <p>
-    <a href="https://wangchujiang.com/">
+    <a href="https://tosh.co.il/">
       <img src="https://github-readme-stats.vercel.app/api?username=jaywcjlove&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
   </p>
